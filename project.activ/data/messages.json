@@ -1,0 +1,26 @@
+[
+    {
+        "id": "6959522df1484",
+        "nom": "Salaheddine",
+        "email": "xsrsalah@gmail.com",
+        "message": "wa khouna\r\n\r\n",
+        "date": "2026-01-03 18:30:21",
+        "lu": false
+    },
+    {
+        "id": "69539715589ae",
+        "nom": "Salaheddine",
+        "email": "xsrsalah@gmail.com",
+        "message": "cc\r\n",
+        "date": "2025-12-30 10:10:45",
+        "lu": true
+    },
+    {
+        "id": "69528a4a8c7dc",
+        "nom": "Salaheddine",
+        "email": "xsrsalah@gmail.com",
+        "message": "cc\r\n",
+        "date": "2025-12-29 15:03:54",
+        "lu": true
+    }
+]
